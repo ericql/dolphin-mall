@@ -11,5 +11,16 @@
 
     <artifactId>dolphin-mall-security</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>io.dolphin</groupId>
+            <artifactId>dolphin-mall-common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <!--security、oauth2-->
+        <dependency>
+            <groupId>org.springframework.security.oauth.boot</groupId>
+            <artifactId>spring-security-oauth2-autoconfigure</artifactId>
+        </dependency>
+    </dependencies>
 </project>
