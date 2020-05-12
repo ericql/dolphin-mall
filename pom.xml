@@ -10,6 +10,7 @@
     <modules>
         <module>dolphin-mall-security</module>
         <module>dolphin-mall-common</module>
+        <module>dolphin-mall-management</module>
     </modules>
 
     <name>dolphin-mall</name>
@@ -38,6 +39,8 @@
         <hutool.version>4.5.0</hutool.version>
         <redisson.version>3.10.6</redisson.version>
         <fst.version>2.57</fst.version>
+
+        <poi.version>3.17</poi.version>
     </properties>
 
     <dependencyManagement>
