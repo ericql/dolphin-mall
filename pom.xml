@@ -32,7 +32,7 @@
         <aliyun-core.version>4.3.9</aliyun-core.version>
         <aliyun-dysmsapi.version>1.1.0</aliyun-dysmsapi.version>
         <emoji.version>4.0.0</emoji.version>
-        <jsoup.version>1.11.3</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <mybatis-plus.version>3.1.0</mybatis-plus.version>
         <qiniu.version>7.2.18</qiniu.version>
         <guava.version>20.0</guava.version>
